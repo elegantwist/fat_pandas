@@ -3,7 +3,7 @@ from typing import List
 
 class FatPandas:
     """
-    Wrapper above pandas table, that substitute an iterrows() method for the table
+    Wrapper around pandas table, that substitute an iterrows() method for the table
 
     you can use this wrapper with 2 steps:
 
